@@ -70,4 +70,4 @@ A abordagem proposta ilustra o potencial da análise de dados em contextos empre
 **Lucas Dias Noronha**  
 [LinkedIn](https://www.linkedin.com/in/lucasdiasnoronha/)  
 
-**Repositório do Projeto:** [github.com/LUCASDNORONHA/analise-desempenho-frotas](http://github.com/LUCASDNORONHA/analise-desempenho-frotas)
+**Repositório do Projeto:** [https://github.com/LUCASDNORONHA/analise-desempenho-frota](https://github.com/LUCASDNORONHA/analise-desempenho-frota)
