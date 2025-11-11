@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Análise Descritiva de Desempenho Operacional em Frotas Logísticas"
+version = "0.1.0"
+description = "Projeto de análise descritiva com foco no desempenho da frota de veículos de uma empresa logistíca."
+authors = [
+  { name="Lucas Dias Noronha", email="lucasdiasnoronha1@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.12.3"
+dependencies = []
+
+
+[tool.black]
+line-length = 88
+
+[tool.flake8]
+max-line-length = 88
+ignore = ["E203", "W503"]
+
+[tool.isort]
+profile = "black"
