@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="http://github.com/LUCASDNORONHA/analise-desempenho-frotas">
-    <img src="assets/cruzeiro-do-sul-logo.png" alt="Logo da Universidade Cruzeiro do Sul" width="150" height="150">
+    <img src="assets/cruzeiro-do-sul-logo.png" alt="Logo da Universidade Cruzeiro do Sul" width="250" height="250">
   </a>
 </p>
 
