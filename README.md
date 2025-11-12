@@ -1,7 +1,7 @@
 <!-- Cabeçalho -->
 <br />
 <p align="center">
-  <a href="http://github.com/LUCASDNORONHA/analise-desempenho-frotas">
+  <a href="http://github.com/LUCASDNORONHA/analise-desempenho-frota">
     <img src="assets/cruzeiro-do-sul-logo.png" alt="Logo da Universidade Cruzeiro do Sul" width="350" height="350">
   </a>
 </p>
