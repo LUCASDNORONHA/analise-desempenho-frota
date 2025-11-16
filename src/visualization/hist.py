@@ -27,8 +27,8 @@ class PlotHist:
         try:
             logo_path = '../assets/cruzeiro-do-sul-logo.png'
             logo = plt.imread(logo_path)
-            imagebox = OffsetImage(logo, zoom=0.30)
-            ab = AnnotationBbox(imagebox, (0.98, 0.02), frameon=False,
+            imagebox = OffsetImage(logo, zoom=0.20)
+            ab = AnnotationBbox(imagebox, (0.98, 0.01), frameon=False,
                                 xycoords='figure fraction', box_alignment=(1, 0))
             fig.add_artist(ab)
         except FileNotFoundError:
